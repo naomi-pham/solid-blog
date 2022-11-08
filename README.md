@@ -8,4 +8,4 @@ I just finished the login page with <LoginButton /> from `solid-react-ui`. I use
 - `oidcIssuer` is user WebID captured through an input field or option from a select list. 
 - `redirectUrl` is where users are directed to after they have logged in with a Solid account (window.location.href). 
   
-  ![solid-blog-login](https://raw.githubusercontent.com/naomi-pham/solid-blog/main/public/login.png)
+  ![solid-blog-login](https://raw.githubusercontent.com/naomi-pham/solid-blog/main/public/home.png)
